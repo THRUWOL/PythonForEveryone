@@ -13,3 +13,5 @@ Solving problems from the course from https://books.trinket.io
 
 [Chapter 7](https://books.trinket.io/pfe/07-files.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%207)
 
+[Chapter 8](https://books.trinket.io/pfe/08-lists.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%208)
+
