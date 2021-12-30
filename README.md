@@ -15,3 +15,4 @@ Solving problems from the course from https://books.trinket.io
 
 [Chapter 8](https://books.trinket.io/pfe/08-lists.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%208)
 
+[Chapter 9](https://books.trinket.io/pfe/09-dictionaries.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%209)
