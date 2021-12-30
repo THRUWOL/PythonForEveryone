@@ -4,6 +4,7 @@ def openFile(file):
         return oFile
     except:
         print('Cannot open the file: ', file)
+        quit()
 
 
 file = input('Enter a file name: ')
