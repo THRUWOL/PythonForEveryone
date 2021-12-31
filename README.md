@@ -18,3 +18,5 @@ Solving problems from the course from https://books.trinket.io
 [Chapter 9](https://books.trinket.io/pfe/09-dictionaries.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%209)
 
 [Chapter 10](https://books.trinket.io/pfe/10-tuples.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%2010)
+
+[Chapter 11](https://books.trinket.io/pfe/11-regex.html#exercises) -> [my solutions](https://github.com/THRUWOL/PythonForEveryone/tree/main/Chapter%2011)
